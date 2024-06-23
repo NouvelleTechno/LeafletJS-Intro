@@ -1,0 +1,32 @@
+{
+    "Paris": {
+        "lat": 48.852969,
+        "lon": 2.349903,
+        "description": "Paris est la capitale de la France et une collectivité à statut particulier. Divisée en vingt arrondissements, elle est le chef-lieu de la région Île-de-France et le siège de la métropole du Grand Paris.",
+        "image": "paris.webp"
+    },
+    "Brest": {
+        "lat": 48.383,
+        "lon": -4.5,
+        "description": "Brest est une commune française, chef-lieu d’arrondissement du département du Finistère dans la région Bretagne. C'est un port important, deuxième port militaire en France après Toulon, situé à l'extrémité ouest de la Bretagne.",
+        "image": "brest.webp"
+    },
+    "Quimper": {
+        "lat": 48.0,
+        "lon": -4.1,
+        "description": "Quimper est une commune française de la région Bretagne située dans le nord-ouest de la France. Préfecture du département du Finistère et siège du Conseil départemental, elle est composée de deux cantons. Elle est également la capitale traditionnelle de la Cornouaille, du Pays Glazik et du Pays de Cornouaille (331 300 habitants en 2009), le siège de l'intercommunalité de Quimper Bretagne occidentale (100 187 habitants en 2014), le siège de l'arrondissement de Quimper et enfin le siège du diocèse de Quimper et Léon. Ses habitants sont appelés les Quimpérois.",
+        "image": "quimper.webp"
+    },
+    "Bayonne": {
+        "lat": 43.5,
+        "lon": -1.467,
+        "description": "Bayonne, Baiona en basque et en gascon, est une commune française et l’une des deux sous-préfectures du département des Pyrénées-Atlantiques, en région Nouvelle-Aquitaine.",
+        "image": "bayonne.webp"
+    },
+    "Clermont-Ferrand": {
+        "lat": 45.783329,
+        "lon": 3.08333,
+        "description": "Clermont-Ferrand  est une ville du centre de la France, située dans le Massif central en région Auvergne-Rhône-Alpes. C'est la capitale historique de l'Auvergne et le chef-lieu du département du Puy-de-Dôme.",
+        "image": "clermontferrand.webp"
+    }
+}
